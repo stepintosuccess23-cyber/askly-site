@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://stepintosuccess23-cyber.github.io/askly-site/sitemap.xml
